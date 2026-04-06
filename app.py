@@ -74,4 +74,22 @@ st.markdown("""
 """)
 
 st.markdown("---")
+st.markdown("""
+<div style="background:linear-gradient(135deg,#1e3a5f,#0f172a);border-radius:16px;padding:24px;
+     border:1px solid #3b82f6;text-align:center;margin:16px 0;">
+  <div style="font-size:1.3rem;font-weight:700;color:#f1f5f9;margin-bottom:8px;">
+    🔓 Accès illimité — 9€/mois
+  </div>
+  <div style="color:#94a3b8;margin-bottom:16px;font-size:0.95rem;">
+    Essai gratuit 7 jours · Résiliable à tout moment · Toutes spécialités incluses
+  </div>
+  <a href="https://buy.stripe.com/test_fZubJ10nt5hwbir6fC0gw00" target="_blank"
+     style="background:#3b82f6;color:white;padding:12px 32px;border-radius:8px;
+     text-decoration:none;font-weight:700;font-size:1rem;">
+    S'abonner maintenant
+  </a>
+</div>
+""", unsafe_allow_html=True)
+
+st.markdown("---")
 st.caption("ClinIA © 2026 — Dr. Mamadou Lamine TALL, PhD · mamadoulaminetallgithub@gmail.com")
