@@ -83,7 +83,7 @@ st.markdown("""
   <div style="color:#94a3b8;margin-bottom:16px;font-size:0.95rem;">
     Essai gratuit 7 jours · Résiliable à tout moment · Toutes spécialités incluses
   </div>
-  <a href="https://buy.stripe.com/test_fZubJ10nt5hwbir6fC0gw00" target="_blank"
+  <a href="https://buy.stripe.com/9B63cvb3G8kZ5cGfHwb3q01" target="_blank"
      style="background:#3b82f6;color:white;padding:12px 32px;border-radius:8px;
      text-decoration:none;font-weight:700;font-size:1rem;">
     S'abonner maintenant
